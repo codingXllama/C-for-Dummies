@@ -15,6 +15,7 @@ int main()
     number1 = 10, number2 = 2;
     result = number1 / number2;
     cout << "The result of \"10/2\" is\t " << result << endl;
+    cout << "The food tastes so \"good\"" << endl;
 
     return 0;
 }
