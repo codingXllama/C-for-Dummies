@@ -7,4 +7,31 @@ Example:  cout <<"The food tastes so \"good\""<<endl;
 Output :  The food tastes so "good"
 
 
-3.
+3. cout means you want to write to the console
+Example cout (pronouced as c out, is displaying content on the console screen) <<"I like to code in cpp and cry, jk";
+Output: I like to code in cpp and cry, jk
+
+4. The << symbol is used to tell the complier that you will print content after that << symbol
+   It also tell's the computer what you want to write onto the console. 
+   You can write the following: strings, numbers, symbols, other chars or even endl;
+
+Example: cout<<"I eat ketchup"<<endl;
+Output I eat ketchup
+Explaination: This tells the complier that I will print 'cout' content after the << symbol which is everything in the double quotes
+
+
+5. endl is used to finish the current line and start a new line
+Example: cout<<"I like soccer"<<endl;
+         cout<<"I like music"<<endl;
+Output: I like soccer 
+        I like music
+
+Qsn. What do you think the current output is; cout<<"I like soccer";
+                                              cout<<"I like music";
+
+Ans. I like SoccerI like music
+
+
+
+
+
